@@ -9,13 +9,13 @@
 Pod::Spec.new do |s|
 
 s.name			= "OpenPayment"
-s.version		= "1.0.4"
+s.version		= "1.0.6"
 s.summary		= "Cocoapods implementation of OPEN Payment SDK"
 
 s.description		= <<-DESC
 	Integrate OPEN Payment Gateway with your iOS app and start collecting payments from your customers.
 		  DESC
-s.homepage		= "https://github.com/bankopen/open-payment-iOS-framework.git"
+s.homepage		= "https://cocoapods.org/pods/OpenPayment"
 s.license		= 'MIT'
 s.author			= { "OPEN Financial Technologies Pvt Ltd" => "engineering@bankopen.co" }
 s.source			= { :git => "https://github.com/bankopen/open-payment-iOS-framework.git", :tag => s.version }
