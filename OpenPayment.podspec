@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
 s.name			= "OpenPayment"
-s.version		= "1.0.3"
+s.version		= "1.0.4"
 s.summary		= "Cocoapods implementation of OPEN Payment SDK"
 
 s.description		= <<-DESC
