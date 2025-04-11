@@ -102,6 +102,7 @@ Call the webhook URL to get the complete response of the transactions.
 ####  🛠 Info.plist Configuration
 To support UPI and other payment apps, add the following entry to your app's Info.plist:
 
+````
 <key>LSApplicationQueriesSchemes</key>
 <array>
     <string>gpay</string>
@@ -125,7 +126,7 @@ To support UPI and other payment apps, add the following entry to your app's Inf
     <string>kotak811</string>
     <string>cred</string>
 </array>
-
+````
 
 ## License
 
