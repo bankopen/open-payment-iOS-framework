@@ -6,6 +6,6 @@ framework module OpenPayment {
 }
 
 module OpenPayment.Swift {
-    header "OpenPayment-Swift.h"
-    requires objc
+  header "OpenPayment-Swift.h"
+  requires objc
 }
