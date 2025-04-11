@@ -99,6 +99,33 @@ transactionDetails.status**
 
 Call the webhook URL to get the complete response of the transactions.
 
+####  🛠 Info.plist Configuration
+To support UPI and other payment apps, add the following entry to your app's Info.plist:
+
+<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>gpay</string>
+    <string>paytmmp</string>
+    <string>phonepe</string>
+    <string>bhim</string>
+    <string>amazonpay</string>
+    <string>payzapp</string>
+    <string>icici</string>
+    <string>axisbank</string>
+    <string>sbi</string>
+    <string>kotak</string>
+    <string>federal</string>
+    <string>yesbank</string>
+    <string>idfcbank</string>
+    <string>indus</string>
+    <string>pnb</string>
+    <string>ikwik</string>
+    <string>axispay</string>
+    <string>idfcup</string>
+    <string>kotak811</string>
+    <string>cred</string>
+</array>
+
 
 ## License
 
