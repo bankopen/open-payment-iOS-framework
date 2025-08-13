@@ -14,15 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		P5sXSOPorYGLUH4HmZR0mRue9oQ=
-		</data>
-		<key>Modules/OpenPayment.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		Tw3FSp3Z4OHzruY+kexKT79vUQI=
-		</data>
-		<key>Modules/OpenPayment.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		VKYNGMLYuJKKhDiLW0DEex5YuVQ=
+		mdmF6EZ0VBZuwuQkgp5bpYX00X8=
 		</data>
 		<key>Modules/OpenPayment.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +34,7 @@
 		</data>
 		<key>Modules/OpenPayment.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Od++/qZHasqJDOsWY8PCSM7XxcE=
+		hBvrF4u2lLRyKDFD4XcYT7So370=
 		</data>
 		<key>Modules/OpenPayment.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +54,7 @@
 		</data>
 		<key>Modules/OpenPayment.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LhWl4iQVplZc65FcM0XEs7H4JMk=
+		KaYbqSR5USynH1HgsYWLRFdfvOQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -83,20 +75,6 @@
 			<key>hash2</key>
 			<data>
 			9B9hKyFuw7doP2i7aduoMkXXnhAlwlmKhrVuoagq22M=
-			</data>
-		</dict>
-		<key>Modules/OpenPayment.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dN3pIj9evtFQ2KixpmPRxWXcjNkgWERL5WqxRVnWMjs=
-			</data>
-		</dict>
-		<key>Modules/OpenPayment.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5pAJPHxRoRbJTHVYATOdOg05W3tgnxtiBlld243rUyw=
 			</data>
 		</dict>
 		<key>Modules/OpenPayment.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -131,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IsbmhvW6djpeR6apTy2RBg9OiitNiQQLF4lxmdgMw2c=
+			BshjATCFGVDE32O8Hr3z4j0P0xZKH/+xjqVhrZTmSc8=
 			</data>
 		</dict>
 		<key>Modules/OpenPayment.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -166,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Su11f4nS+ySq6W0LGJ3BYk6xKO812LjG34vYyk3E004=
+			Wx3DXjqAkur7RYhdlapSzXrAZJSyvww50dV1EAszKoU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
