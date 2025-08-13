@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/OpenPayment.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hBvrF4u2lLRyKDFD4XcYT7So370=
+		7wTfKgbX8YElPGGXF6cdQ56qsW8=
 		</data>
 		<key>Modules/OpenPayment.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/OpenPayment.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KaYbqSR5USynH1HgsYWLRFdfvOQ=
+		OYq8EQxcBeKdN8zbhVJcltX2HQs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BshjATCFGVDE32O8Hr3z4j0P0xZKH/+xjqVhrZTmSc8=
+			b1IZtijMovMyGjXGAwNLc/mZ/S78r3IS6NdNdHjCEbk=
 			</data>
 		</dict>
 		<key>Modules/OpenPayment.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wx3DXjqAkur7RYhdlapSzXrAZJSyvww50dV1EAszKoU=
+			Dvdr1RflE3xkeBEe3FatM66a4BZ7Aivad1+JsfUNTYE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
